@@ -1,0 +1,21 @@
+{
+  "shows": [
+    {
+      "title": "Goldman Sachs",
+      "stock_symbol": "GEMIX",
+      "description": "GS Emerging Markets Equity Fund",
+      "poster": "goldman_sachs.jpg",
+      "fund_site":
+        "https://www.gsam.com/content/gsam/us/en/advisors/fund-center/fund-finder/gs-emerging-markets-equity-fund.html#scType=Institutional",
+      "home_page": "https://www.gsam.com/content/gsam/global/en/homepage.html"
+    },
+    {
+      "title": "Dodge & Cox Funds",
+      "stock_symbol": "DODGX",
+      "description": "Dodge & Cox Stock Fund",
+      "poster": "Dodge&Cox.jpg",
+      "fund_site": "https://www.dodgeandcox.com/stockfund.asp",
+      "home_page": "https://www.dodgeandcox.com/index.asp"
+    }
+  ]
+}
